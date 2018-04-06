@@ -1,0 +1,336 @@
+.titre1
+{
+		text-align:center;
+		text-decoration:underline;
+		text-decoration-color:black;
+		color:purple;
+
+}
+.principal1
+{
+	width:1130px;
+	margin:auto;
+	background-image:url(test.jpg);
+	height:1050px;
+	border-radius: 15px;
+
+}
+
+.menu1
+{
+
+	background-color: #383989;
+	width: 800px;
+	border-radius: 10px;
+	margin: auto;
+	height: 6%;
+
+
+
+}
+
+
+#Apropos
+{
+		float: left;
+		background-color:white;
+		width: 250px;
+		height: 25px;
+		text-align: center;
+		margin: 20px 5px 5px 10px;
+		border-radius: 10px 10px 0 0;
+		padding-top: : 2px;;
+
+		
+}
+
+
+#produits
+{
+		float: left;
+		background-color:white;
+		width: 250px;
+		height: 25px;
+		text-align: center;
+		margin: 20px 5px 5px 10px;
+		border-radius: 10px 10px 0 0;
+		padding-top: : 2px;
+		
+}
+
+#commandes
+{
+		float: left;
+		background-color:white;
+		width: 250px;
+		height: 25px;
+		text-align: center;
+		margin: 20px 5px 5px 10px;
+		border-radius: 10px 10px 0 0;
+		padding-top: : 2px;
+		
+
+}
+
+.divpropos
+{
+	width: 600px;
+	height: 400px;
+	background-color: white;
+	margin: auto;
+	margin-top: 150px;
+}
+
+#Apropos ul li 
+{
+		color:blue;
+		visibility: hidden;
+		margin-top: 10px;
+		list-style: none;
+		float: left;
+
+		
+		
+}
+
+#Apropos:hover a
+{
+		visibility: visible;
+		background-color: white;
+		
+	
+
+}
+
+#comm1
+{
+	width: 1050px;
+	height: 270px;
+	margin: 75px 0 0 10px;	
+}
+
+#comm2
+{
+	
+	width: 1050px;
+	height: 270px;
+	padding: 20px 0 0 200px;	
+}
+
+#comm3
+{
+
+	width: 1050px;
+	height: 270px;
+	padding: 10px 0 0 40px;	
+}
+
+
+#part
+{
+	width: 700px;
+	height: 700px;
+	padding-top: 200px;
+}	
+
+#prod1
+{
+	width: 1050px;
+	height: 270px;
+	margin: 15px auto;	
+}
+#prod2
+{
+	width: 1050px;
+	width: 1050px;
+	height: 270px;
+	margin: 5px auto;		
+}
+
+#prod3
+{
+	width: 1050px;
+	width: 1050px;
+	height: 270px;
+	margin: 5px auto;		
+}
+
+
+
+#propoS
+{
+	
+	width:800px;
+	height:600px;
+	margin: auto;
+	padding: 40px  40px  40px  40px;
+	border-radius: 40px;
+
+}
+
+#footer
+{
+	
+	width: 500px;
+	height: 30px;
+	position: absolute;
+	margin-top: 500px;
+
+}
+
+.pot1
+{
+	
+	width: 330px;
+	height: 260px;
+	float: left;
+	margin:5px 10px 0px 10px; 
+	border-radius: 5px;
+}
+
+
+.pot2
+{
+	width: 330px;
+	height: 260px;
+	float: left;
+	margin:5px 10px 0px 10px; 
+	border-radius: 5px;
+
+	
+}
+
+.pot3
+{
+	width: 330px;
+	height: 260px;
+	float: left;
+	margin:5px 10px 0px 10px; 
+	border-radius: 5px;
+	
+}
+
+.SP1
+{
+	width: 330px;
+	height: 200px;
+	float: top;
+}
+
+.SP2
+{
+	width: 240px;
+	height: 49px;
+	margin-top: 10px;
+
+}
+
+.SP3
+{
+	width: 330px;
+	height: 200px;
+	float: top;
+
+}
+
+.SP4
+{
+	width: 240px;
+	height: 49px;
+	margin-top: 10px;
+
+}
+
+.SP5
+{
+	width: 330px;
+	height: 200px;
+	float: top;
+
+}
+
+.SP6
+{
+	width: 240px;
+	height: 49px;
+	margin-top: 10px;
+
+}
+
+.listeD
+{
+	width: 200px;
+	float: left;
+	
+}
+
+.listeD:hover
+{
+	background-color: white;
+	z-index: 900;
+
+	}
+
+
+#produit1
+{
+	
+	width: 600px;
+	height: 500px;
+	margin: 100px auto;
+	padding: 80px 60px 60px 500px;
+}
+
+.NOSCLTS
+{
+	width: 240px;
+	height: 300px;
+	float: left;
+	margin:100px 10px 10px 10px;
+
+}
+
+.NOSCLTS1
+{
+	width: 240px;
+	height: 300px;
+	float: left;
+	margin:100px 10px 10px 10px;
+
+}
+
+.NOSCLTS2
+{
+	width: 230px;
+	height: 300px;
+	float: left;
+	margin:100px 10px 10px 10px;
+
+}
+
+.NOSCLTS3
+{
+	width: 230px;
+	height: 300px;
+	float: left;
+		margin:100px 10px 10px 10px;
+
+}
+
+.NOSCLTS4
+{
+	width: 230px;
+	height: 300px;
+	float: left;
+		margin:100px 10px 10px 10px;
+
+}
+
+.NOSCLTS5
+{
+	width: 230px;
+	height: 300px;
+	float: left;
+	margin:100px 10px 10px 10px;
+
+}
